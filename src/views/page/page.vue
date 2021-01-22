@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    111111
+    111111131331313
     <Header msg="Welcome to Your Vue.js App"/>
     <home-swiper></home-swiper>
     <home-icon></home-icon>
